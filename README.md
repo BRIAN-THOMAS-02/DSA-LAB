@@ -2,7 +2,7 @@
 DSA LAB 6 (BFS, DFS)
 
 
-Example Input:
+Example Input: <br>
 V = 4 <br>
 E = 4 <br>
 0 1 <br>
